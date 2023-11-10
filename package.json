@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Unity Ekeoba",
+	"author": "unity",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
